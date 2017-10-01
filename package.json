@@ -1,0 +1,22 @@
+{
+  "name": "skylark-spider",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lgy87/skylark-spider.git"
+  },
+  "keywords": [
+    "spider"
+  ],
+  "author": "李光耀",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lgy87/skylark-spider/issues"
+  },
+  "homepage": "https://github.com/lgy87/skylark-spider#readme",
+  "dependencies": {
+    "iconv-lite": "^0.4.19"
+  }
+}

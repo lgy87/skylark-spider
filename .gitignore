@@ -1,0 +1,10 @@
+node_modules/
+*.log
+.idea/
+.DS_Store
+Thumbs.db
+webpack/*manifest.json
+*.lock
+lib.js
+build/
+coverage/
